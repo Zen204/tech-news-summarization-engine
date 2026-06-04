@@ -2,7 +2,7 @@
 
 Welcome to the **Tech Insights Analyzer** repository! This tool was developed as part of an internship project at Accenture to analyze knowledge graphs constructed from technology news articles. The aim is to uncover insights about technology products, platforms, services, and their impact across various industries. By extracting meaningful information and trends, the tool helps inform decision-making in the tech landscape.
 
-![Slides Preview](https://s2.ezgif.com/tmp/ezgif-28f1b7a3def935b2.gif)
+![Slides Preview](video-to-gif.gif)
 
 ---
 
