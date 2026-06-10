@@ -80,16 +80,8 @@ This project is licensed under the Accenture License.
 
 ---
 
-## Team Members
-
-- **Janae Perez**
-- **Zen Edwards**
-- **Phuong Ngyuen**
-- **Lillian Tran**
-- **Wanru Shao**
----
 
 ## Acknowledgments
 
-This project was developed during an internship at Accenture. Thank you to my mentors and team members for their guidance and support throughout the development process!
+This project was developed during an internship at Accenture. Thank you to my mentors and project members for their guidance and support throughout the development process!
 
